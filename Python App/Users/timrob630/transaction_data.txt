@@ -1,0 +1,13 @@
+20/03/2024 09:47:37
+Transaction type: Opening Balance
+Transaction amount: R5000.0
+
+20/03/2024 09:48:05
+Transaction type: Deposit
+Transaction amount: R200.0
+Balance after transaction: R5200.0
+
+20/03/2024 09:48:56
+Transaction type: Withdrawal
+Transaction amount: R1250.0
+Balance after transaction: R3950.0
